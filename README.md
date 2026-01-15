@@ -74,7 +74,7 @@ Resources were created using the AWS Management Console:
 
 1\.	Clone this repository:bash
 
-git clone https://github.com/your-username/serverless-data-pipeline.git
+git clone https://github.com/aayushbapardekar9-ai/serverless-data-pipeline
 
 2\.	Install required Python libraries:
 
